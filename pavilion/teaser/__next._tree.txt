@@ -1,0 +1,6 @@
+:HL["/basanth-enterprises/_next/static/chunks/3he0muidl849u.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"teaser","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"pavilion","h":96,"c":"$Q2"}]]
+0:{"b":"CSZiJRmMwbmNK9zJcJS_m","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
